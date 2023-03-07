@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ObservationalData>
+    <fokus>phi</fokus>
+    <start>2023-03-07T20:25:43.393386+01:00</start>
+    <stop>2023-03-07T20:25:44.163733+01:00</stop>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>psi</fokus>
+    <start>2023-03-07T20:25:45.127806+01:00</start>
+    <stop>2023-03-07T20:25:47.579118+01:00</stop>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>pi</fokus>
+    <start>2023-03-07T20:25:47.580123+01:00</start>
+    <stop>2023-03-07T20:25:48.514964+01:00</stop>
+  </ObservationalData>
+</DocumentElement>
