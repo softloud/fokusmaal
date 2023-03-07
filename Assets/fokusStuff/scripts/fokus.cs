@@ -100,6 +100,12 @@ public class fokus : MonoBehaviour
         column.ColumnName = "stop";
         obsDat.Columns.Add(column);
 
+        // Create timepoint column
+        column = new DataColumn();
+        column.DataType = System.Type.GetType("System.Int32");
+        column.ColumnName = "deltaSeconds";
+        obsDat.Columns.Add(column);
+
     }
 
     // Start is called before the first frame update
@@ -197,6 +203,7 @@ public class fokus : MonoBehaviour
         obsRow["fokus"] = fokus.text;
         obsRow["start"] = startTime;
         obsRow["stop"] = stopTime;
+        obsRow["deltaSeconds"] = (stopTime - startTime).Seconds;
         obsDat.Rows.Add(obsRow);
         obsDat.WriteXml("Assets/fokusStuff/data/obsdat.xml");
     }
