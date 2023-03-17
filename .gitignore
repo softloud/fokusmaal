@@ -1,6 +1,7 @@
 # Other stuff not to push
 
 /fokusStuff/data/
+/fokusBuilds/
 
 # This .gitignore file should be placed at the root of your Unity project directory
 #

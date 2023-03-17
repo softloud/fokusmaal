@@ -279,9 +279,13 @@ public class fokus : MonoBehaviour
         updateTimerState();
     }
 
-
-
     // Data engineering and analysis 
+
+    // Start by calculating the total of each and printing
+    public void totals()
+    {
+        
+    }
 }
 
 
