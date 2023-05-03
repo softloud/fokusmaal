@@ -2,26 +2,50 @@
 <DocumentElement>
   <ObservationalData>
     <fokus>phi</fokus>
-    <start>2023-03-07T21:30:10.308073+01:00</start>
-    <stop>2023-03-07T21:30:11.565333+01:00</stop>
-    <deltaSeconds>1</deltaSeconds>
+    <start>2023-05-03T17:20:53.983143+02:00</start>
+    <stop>2023-05-03T17:20:54.748149+02:00</stop>
+    <deltaSeconds>0</deltaSeconds>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>theta</fokus>
+    <start>2023-05-03T17:20:55.838145+02:00</start>
+    <stop>2023-05-03T17:20:56.504162+02:00</stop>
+    <deltaSeconds>0</deltaSeconds>
   </ObservationalData>
   <ObservationalData>
     <fokus>psi</fokus>
-    <start>2023-03-07T21:30:11.59723+01:00</start>
-    <stop>2023-03-07T21:30:12.63057+01:00</stop>
-    <deltaSeconds>1</deltaSeconds>
-  </ObservationalData>
-  <ObservationalData>
-    <fokus>phi</fokus>
-    <start>2023-03-07T21:30:12.631709+01:00</start>
-    <stop>2023-03-07T21:30:13.170559+01:00</stop>
+    <start>2023-05-03T17:20:57.556961+02:00</start>
+    <stop>2023-05-03T17:20:58.090795+02:00</stop>
     <deltaSeconds>0</deltaSeconds>
   </ObservationalData>
   <ObservationalData>
     <fokus>pi</fokus>
-    <start>2023-03-07T21:30:14.335871+01:00</start>
-    <stop>2023-03-07T21:30:15.397934+01:00</stop>
+    <start>2023-05-03T17:20:59.041781+02:00</start>
+    <stop>2023-05-03T17:20:59.575581+02:00</stop>
+    <deltaSeconds>0</deltaSeconds>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>phi</fokus>
+    <start>2023-05-03T17:21:00.542537+02:00</start>
+    <stop>2023-05-03T17:21:01.910344+02:00</stop>
     <deltaSeconds>1</deltaSeconds>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>theta</fokus>
+    <start>2023-05-03T17:21:01.911576+02:00</start>
+    <stop>2023-05-03T17:21:03.646517+02:00</stop>
+    <deltaSeconds>1</deltaSeconds>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>phi</fokus>
+    <start>2023-05-03T17:21:04.281408+02:00</start>
+    <stop>2023-05-03T17:21:04.881443+02:00</stop>
+    <deltaSeconds>0</deltaSeconds>
+  </ObservationalData>
+  <ObservationalData>
+    <fokus>theta</fokus>
+    <start>2023-05-03T17:21:04.882569+02:00</start>
+    <stop>2023-05-03T17:21:06.950456+02:00</stop>
+    <deltaSeconds>2</deltaSeconds>
   </ObservationalData>
 </DocumentElement>

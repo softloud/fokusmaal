@@ -5,6 +5,7 @@ using System.Data;
 using System.IO;
 using UnityEngine.UI; // not UI Elements
 using System;
+using System.Linq;
 
 public class fokus : MonoBehaviour
 {
@@ -279,13 +280,6 @@ public class fokus : MonoBehaviour
         updateTimerState();
     }
 
-    // Data engineering and analysis 
-
-    // Start by calculating the total of each and printing
-    public void totals()
-    {
-        
-    }
 }
 
 
